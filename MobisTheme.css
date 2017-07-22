@@ -1,4 +1,4 @@
-//META{"name":"MobisTheme","description":"Custom theme for BetterDiscord","author":"Mobirelanders","version":"1.0"}*//{}
+//META{"name":"NotAnotherAnimeTheme","description":"Anime theme made by WhatDaPuck#2080","author":"WhatDaPuck","version":"2.2"}*//{}
 
 /*DONT TOUCH ANYTHING HERE UNLESS YOU REALLY KNOW WHAT YOU'RE DOING*/
 
@@ -2437,7 +2437,7 @@
 }
 
 [class~=chat] [class~=divider]:before {
-    height: 18.75pt;
+    height: 50pt;
 }
 
 .theme-dark .search-results-wrap .scroller-wrap .scroller::-webkit-scrollbar-thumb {
